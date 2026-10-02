@@ -195,7 +195,7 @@ footer{padding:38px 18px 65px;text-align:center;color:#9b6c87}
   <div class="section-head"><p class="eyebrow">Little pieces of forever</p><h2>Our Memory Lane 📸</h2><p>Three pictures, three little reminders that ordinary moments can feel special.</p></div>
   <div class="grid three">
    <div class="card photo-card"><img class="photo" src="IMG-20260829-WA0026.jpg" alt="Memory one" loading="lazy"><p><span class="memory-number">MEMORY 01</span><br>One for the memory book 💗</p></div>
-   <div class="card photo-card"><img class="photo" src="IMG-20260917-WA0050.jpg" alt="Memory two" loading="lazy"><p><span class="memory-number">MEMORY 02</span><br>A moment worth keeping 🌷</p></div>
+   <div class="card photo-card"><img class="photo" src="IMG-20260926-WA0050.jpg" alt="Memory two" loading="lazy"><p><span class="memory-number">MEMORY 02</span><br>A moment worth keeping 🌷</p></div>
    <div class="card photo-card"><img class="photo" src="Snapchat-1339605840.jpg" alt="Memory three" loading="lazy"><p><span class="memory-number">MEMORY 03</span><br>Saved with a little love 🎀</p></div>
   </div>
   <p class="center muted small">Tap a photo to view it larger. Make sure each filename matches exactly.</p>
